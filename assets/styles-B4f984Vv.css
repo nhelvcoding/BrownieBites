@@ -1,0 +1,1 @@
+html,body{margin:0;padding:0;overflow:hidden;background:#1e1e1e;font-family:Arial,sans-serif}#gameCanvas{display:block;width:100vw;height:100vh;image-rendering:pixelated;background:#000}@font-face{font-family:CozyFont;src:url(/fonts/cozy.ttf) format("truetype");font-weight:400;font-style:normal}body,canvas{font-family:CozyFont,Arial,sans-serif}
